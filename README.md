@@ -4,6 +4,8 @@
 
 Repositorio para trabajos finales realizados durante la carrera de Data Scientist en Coderhouse. Adicionalmente, se presentan algunos ejercicios llevados a cabo durante la cursada.
 
+Por otro lado, puede seguirse el enlace para leer la [lista de herramientas utilizadas](https://github.com/juanimoralesv/2024-coderhouse-datascience/blob/main/Herramientas-Utilizadas.md) durante la carrera.
+
 ## Enlaces a los Trabajos
 
 Se presentan por curso:
